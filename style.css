@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  color: #201e1b;
+}
+
+.pagina {
+  display: flex;
+}
+
+.laterale {
+  width: 180px;
+  background-color: #e4eaf6;
+  padding: 20px;
+}
+
+.voce {
+  display: block;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.principale {
+  margin: 10px;
+  padding: 20px;
+}
+
+.titolo {
+  color: #2451a3;
+  text-transform: uppercase;
+}
+.titoloprincipale {
+  color: #2451a3;
+  padding: 200px;
+}
+
