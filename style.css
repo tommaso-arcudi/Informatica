@@ -64,6 +64,7 @@ body {
 }
 
 .benvenuto {
+  display: block;
   background-color: #EAE7DF;
   border-left: 5px solid #E08E45;
   padding: 20px;
@@ -74,13 +75,13 @@ body {
 
 .immagine {
   display: block;
-  margin: 20px auto;
-  max-width: 100%;
-  height: auto;
+  width:450px;
+  height:450px;
   border-radius: 8px;
 }
 
 .rigaimmagini {
   display: flex;
   gap: 20px; /*spazio tra le immagini*/
+  justify-content: center;
 }
